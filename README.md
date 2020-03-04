@@ -14,7 +14,7 @@
 
     python manage.py preprocess
 
-* 模型运行
+* 模型运行脚本
 
     python manage.py [cf/lfm/prank]
 
